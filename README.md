@@ -1,6 +1,6 @@
 # choo-baqend-starter
 
-Work-in-progress static choo SaaS starter with [baqend](baqend.com) back end.
+Work-in-progress static choo SaaS starter with [baqend](https://www.baqend.com/) back end.
 
 * First real attempt at a choo app...lovin choo!
 * Created with create-choo-app
@@ -10,7 +10,7 @@ Work-in-progress static choo SaaS starter with [baqend](baqend.com) back end.
 Critiques/issues and PR's welcome!
 
 
-# Instructions
+## Instructions
 
 * Create a free baqend account or leave as-is to try with their sandbox account called 'toodle'.
 App is connecting to baqend in ./stores/app.js
@@ -19,7 +19,7 @@ App is connecting to baqend in ./stores/app.js
 * npm start
 
 
-# Known issues
+## Known issues
 
 * https://github.com/choojs/choo/issues/601#issuecomment-347836351
 * This is still a rough WIP
