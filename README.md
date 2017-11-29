@@ -16,6 +16,7 @@ Critiques/issues and PR's welcome!
 App is connecting to baqend in ./stores/app.js
 * clone
 * npm install
+* modify sheetify (see below)
 * npm start
 
 
